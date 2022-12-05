@@ -490,6 +490,7 @@ progress::-moz-progress-bar{
 .text-first-color{
     color: var(--first-color);
     padding-bottom: 7px;
+    font-size: 10px;
 }
 
 .text-center{
@@ -533,7 +534,7 @@ progress::-moz-progress-bar{
     }
 
     .slide h3{
-        font-size: 15px;
+        font-size: 12px;
         padding-bottom: 5px;
     }
 }
