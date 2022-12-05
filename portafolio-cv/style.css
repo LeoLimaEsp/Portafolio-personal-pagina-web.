@@ -265,6 +265,7 @@ p{
     }
 }
 
+
 /* ****hero-image */
 .hero-image{
     background-image: var(--hero-image);
@@ -521,6 +522,13 @@ progress::-moz-progress-bar{
     }
 }
 
+@media screen and (max-width:700px){
+    .carousel{
+        max-width: 200px;
+    }
+    
+}
+
 /* ********** Site styles ********** */
 .about > article{
     margin-bottom: 2rem;
@@ -680,6 +688,7 @@ footer  a{
     height: 1.5rem;
 }
 
+
 @media screen and (min-width:768px){
 
     .contact-cards{
@@ -719,7 +728,6 @@ footer  a{
     }
 
 }
-
 
 
 @media screen and (min-width:1024px){
