@@ -688,10 +688,6 @@ footer  a{
         justify-content: space-around;
     }
 
-    .hero-image{
-        width: 68px;
-        height: 190px;
-    }
 
     .portfolio > .container{
         display: grid;
@@ -722,6 +718,13 @@ footer  a{
         grid-column: span 2;      
     }
 
+}
+
+@media screen and (max-width:780px){
+    .hero-image{
+        width: 100vw;
+        height: auto;
+    }
 }
 
 @media screen and (min-width:1024px){
