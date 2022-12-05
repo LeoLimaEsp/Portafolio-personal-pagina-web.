@@ -489,6 +489,7 @@ progress::-moz-progress-bar{
 
 .text-first-color{
     color: var(--first-color);
+    padding-bottom: 7px;
 }
 
 .text-center{
@@ -526,7 +527,15 @@ progress::-moz-progress-bar{
     .carousel{
         max-width: 200px;
     }
-    
+
+    .slide{
+        font-size: 12px;
+    }
+
+    .slide h3{
+        font-size: 15px;
+        padding-bottom: 5px;
+    }
 }
 
 /* ********** Site styles ********** */
