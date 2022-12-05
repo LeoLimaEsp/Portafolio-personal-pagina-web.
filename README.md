@@ -1,6 +1,6 @@
 # Portafolio-cv
 
-Repositorio portafolio personal.
+Repositorio portafolio personal Leonel Lima.
 
 ## Proyecto
 
