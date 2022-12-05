@@ -688,6 +688,11 @@ footer  a{
         justify-content: space-around;
     }
 
+    .hero-image{
+        width: 768px;
+        height: 590px;
+    }
+
     .portfolio > .container{
         display: grid;
         grid-template-columns: repeat(2, 50%);
