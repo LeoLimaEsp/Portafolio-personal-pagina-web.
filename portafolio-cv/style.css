@@ -129,11 +129,6 @@ p{
     animation: carousel-slide 12s ease-in-out 2s;
 }
 
-.slide{
-    padding-left: 15rem;
-    padding-right: 15rem;
-}
-
 .carousel > input{
     display: none;
 }
@@ -267,6 +262,11 @@ p{
 
     .contact-form input[type="submit"]{
         margin-left: 0;
+    }
+
+    .slide{
+        padding-left: 15rem;
+        padding-right: 15rem;
     }
 }
 
@@ -549,9 +549,8 @@ progress::-moz-progress-bar{
     }
 
     .hero-image{
-        background-size:cover;
-        width: 100vw;
-        height: auto;
+        background-image: none;
+        background-color: #14192D;
     }
 
     .gray-scale{
