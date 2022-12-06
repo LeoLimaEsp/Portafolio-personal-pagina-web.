@@ -548,18 +548,13 @@ progress::-moz-progress-bar{
         padding-right: 1.5rem;
     }
 
-    .hero-image{
+    .hero-image-phone{
         background-image: none;
         background-color: #14192D;
     }
 
-    .gray-scale{
-        align-items: center;
-        text-align: center;
-        align-content: center;
-    }
 
-    .hero-image{
+    .hero-image-home{
         width: 700px;
     }
 }
