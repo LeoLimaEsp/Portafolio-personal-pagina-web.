@@ -129,6 +129,11 @@ p{
     animation: carousel-slide 12s ease-in-out 2s;
 }
 
+.slide{
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
 .carousel > input{
     display: none;
 }
@@ -547,6 +552,16 @@ progress::-moz-progress-bar{
         background-size:cover;
         width: 100vw;
         height: auto;
+    }
+
+    .gray-scale{
+        align-items: center;
+        text-align: center;
+        align-content: center;
+    }
+
+    .hero-image{
+        width: 700px;
     }
 }
 
