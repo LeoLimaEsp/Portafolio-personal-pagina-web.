@@ -537,6 +537,17 @@ progress::-moz-progress-bar{
         font-size: 12px;
         padding-bottom: 5px;
     }
+
+    .slide{
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+
+    .hero-image{
+        background-size:cover;
+        width: 100vw;
+        height: auto;
+    }
 }
 
 /* ********** Site styles ********** */
