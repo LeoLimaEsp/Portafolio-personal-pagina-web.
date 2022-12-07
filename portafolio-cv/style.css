@@ -555,8 +555,7 @@ progress::-moz-progress-bar{
     }
 
     .hero-image-phone{
-        background-image:var(--hero-image-phone)
-        
+        background-image:var(--hero-image-phone);
     }
 
 }
@@ -801,5 +800,11 @@ footer  a{
 
     .portfolio .section-title{
         grid-column: span 3;
+    }
+}
+
+@media screen and (max-width:400px){
+    .hero-image-phone{
+        background-image:var(--hero-image-phone);
     }
 }
