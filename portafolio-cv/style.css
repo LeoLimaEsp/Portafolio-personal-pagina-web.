@@ -21,6 +21,7 @@
     --header-height:4rem;
     --iconos-interesado:rgb(248, 8, 8);
     --hero-image-phone:url('assets/hero-image-phone.jpg')
+    --hero-image-customers:url('assets/hero-image-customers.jpg')
 }
 /* ********** Reset ********** */
 html{
@@ -555,7 +556,7 @@ progress::-moz-progress-bar{
     }
 
     .hero-image-phone{
-        background-image:var(--hero-image-phone);
+        background-image:var(hero-image-customers);
     }
 
 }
