@@ -805,6 +805,6 @@ footer  a{
 
 @media screen and (min-width:1790px){
     .hero-image-phone{
-        background-image:var(--hero-image-phone);
+        background-image:var(hero-image-customers);
     }
 }
