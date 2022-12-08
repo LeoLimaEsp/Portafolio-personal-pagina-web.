@@ -565,7 +565,7 @@ progress::-moz-progress-bar{
     }
 }
 
-.
+
 
 /* ********** Site styles ********** */
 .about > article{
@@ -808,4 +808,11 @@ footer  a{
     .portfolio .section-title{
         grid-column: span 3;
     }
+
+    .hero-image{
+        background-image: none;
+        background-color: chartreuse;
+    }
+
+    
 }
