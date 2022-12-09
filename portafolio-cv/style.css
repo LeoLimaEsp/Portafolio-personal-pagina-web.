@@ -806,7 +806,7 @@ footer  a{
     }
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:415px){
     .hero-image-prueba{
         /* background-image: var(--hero-image); */
         /* background-size: cover; */
