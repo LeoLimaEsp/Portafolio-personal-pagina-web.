@@ -811,7 +811,7 @@ footer  a{
             /* background-image: var(--hero-image); */
             /* background-size: cover; */
             /* hero-image:url('assets/hero-image-customers.jpg'); */
-            background-color: chartreuse;
+            background-color: rgb(225, 255, 0);
         }
 }
 
