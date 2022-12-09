@@ -815,7 +815,7 @@ footer  a{
         }
 }
 
-@media screen and (min-width:1000px){
+@media screen and (min-width:1200px){
     .hero-image-prueba{
         /* background-image: var(--hero-image); */
         /* background-size: cover; */
