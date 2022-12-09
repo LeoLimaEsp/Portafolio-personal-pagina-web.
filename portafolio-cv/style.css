@@ -554,11 +554,6 @@ progress::-moz-progress-bar{
         padding-left: 1.5rem;
         padding-right: 1.5rem;
     }
-
-    /* .hero-image-phone{
-        background-image:var(--hero-image-phone-customers)
-        
-    }  */
 }
 
 
@@ -807,15 +802,7 @@ footer  a{
 }
 
 @media screen and (max-width:600px){
-        .hero-image-prueba{
-            /* background-image: var(--hero-image); */
-            /* background-size: cover; */
-            /* hero-image:url('assets/hero-image-customers.jpg'); */
-            background-color: rgb(255, 183, 0);
-        }
+    .hero-image-phone{
+        background-image: var(--hero-image-phone);
+    }
 }
-
-
-
-
-
