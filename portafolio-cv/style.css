@@ -804,6 +804,13 @@ footer  a{
     .portfolio .section-title{
         grid-column: span 3;
     }
+}
 
-    
+@media screen and (max-width:400px){
+    .hero-image-prueba{
+        /* background-image: var(--hero-image); */
+        /* background-size: cover; */
+        /* hero-image:url('assets/hero-image-customers.jpg'); */
+        background-color: chartreuse;
+    }
 }
