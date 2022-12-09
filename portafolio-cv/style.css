@@ -806,3 +806,11 @@ footer  a{
         background-image: var(--hero-image-phone);
     }
 }
+
+.hero-image,
+.hero-image-phone,
+.hero-image-prueba{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
