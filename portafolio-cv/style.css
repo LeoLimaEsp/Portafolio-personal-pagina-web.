@@ -624,7 +624,7 @@ footer  a{
 .logo a{
     color: var(--first-color);
     font-weight: bold;
-    font-size: 2rem;
+    font-size: 1.8rem;
     text-decoration: none;
 }
 
@@ -802,6 +802,13 @@ footer  a{
 }
 
 @media screen and (max-width:600px){
+    .hero-image-phone{
+        background-image: var(--hero-image-phone);
+    }
+}
+
+@media screen (min-device-width: 220px) and (max-device-width: 480px)
+{
     .hero-image-phone{
         background-image: var(--hero-image-phone);
     }
